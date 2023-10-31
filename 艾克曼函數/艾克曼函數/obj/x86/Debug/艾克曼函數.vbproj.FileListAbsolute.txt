@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\bin\Debug\艾克曼函數.exe
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\bin\Debug\艾克曼函數.pdb
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\bin\Debug\艾克曼函數.xml
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\艾克曼函數.exe
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\艾克曼函數.xml
+C:\Documents and Settings\Administrator\桌面\艾克曼函數\艾克曼函數\obj\x86\Debug\艾克曼函數.pdb
+F:\VB程式\VB2010遞迴\艾克曼函數\艾克曼函數\obj\x86\Debug\艾克曼函數.exe
+F:\VB程式\VB2010遞迴\艾克曼函數\艾克曼函數\obj\x86\Debug\艾克曼函數.xml
+F:\VB程式\VB2010遞迴\艾克曼函數\艾克曼函數\obj\x86\Debug\艾克曼函數.pdb
