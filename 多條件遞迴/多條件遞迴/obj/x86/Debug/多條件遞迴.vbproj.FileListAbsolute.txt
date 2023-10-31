@@ -1,0 +1,33 @@
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.exe
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.pdb
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.xml
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.exe
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.xml
+C:\Documents and Settings\Administrator\桌面\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.pdb
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.exe
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.xml
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.pdb
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.exe
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.xml
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\多條件遞迴.pdb
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.exe
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.pdb
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.xml
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.exe
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.pdb
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\bin\Debug\多條件遞迴.xml
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VB程式\VB2010\多條件遞迴\多條件遞迴\obj\x86\Debug\GenerateResource.write.1.tlog

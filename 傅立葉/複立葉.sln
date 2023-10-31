@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "複立葉", "複立葉\複立葉.vbproj", "{837C4BE8-CDD4-4F28-82E1-A03E5EFCAC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837C4BE8-CDD4-4F28-82E1-A03E5EFCAC97}.Debug|x86.ActiveCfg = Debug|x86
+		{837C4BE8-CDD4-4F28-82E1-A03E5EFCAC97}.Debug|x86.Build.0 = Debug|x86
+		{837C4BE8-CDD4-4F28-82E1-A03E5EFCAC97}.Release|x86.ActiveCfg = Release|x86
+		{837C4BE8-CDD4-4F28-82E1-A03E5EFCAC97}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
