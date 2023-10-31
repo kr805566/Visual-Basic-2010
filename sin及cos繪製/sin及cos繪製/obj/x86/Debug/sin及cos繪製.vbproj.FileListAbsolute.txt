@@ -1,0 +1,43 @@
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.exe
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.pdb
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.xml
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.exe
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.xml
+C:\Documents and Settings\Administrator\桌面\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.pdb
+F:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.exe
+F:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.xml
+F:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.pdb
+E:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.exe
+E:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.xml
+E:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.pdb
+E:\VB程式\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.exe
+E:\VB程式\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.pdb
+E:\VB程式\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.xml
+E:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.vbproj.GenerateResource.Cache
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.exe
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.xml
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.pdb
+G:\VB程式\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.exe
+G:\VB程式\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.pdb
+G:\VB程式\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.xml
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VB程式\sin及cos繪製\sin及cos繪製\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.exe
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.xml
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.pdb
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.exe
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.pdb
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\bin\Debug\sin及cos繪製.xml
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\VB程式\VB2010\sin及cos繪製\sin及cos繪製\obj\x86\Debug\sin及cos繪製.vbproj.GenerateResource.Cache
