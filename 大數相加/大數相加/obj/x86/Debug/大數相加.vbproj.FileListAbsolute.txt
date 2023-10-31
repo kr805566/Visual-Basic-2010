@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\bin\Debug\大數相加.exe
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\bin\Debug\大數相加.pdb
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\bin\Debug\大數相加.xml
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\大數相加.exe
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\大數相加.xml
+C:\Documents and Settings\Administrator\桌面\大數相加\大數相加\obj\x86\Debug\大數相加.pdb
+F:\VB程式\VB2010\大數相加\大數相加\obj\x86\Debug\大數相加.exe
+F:\VB程式\VB2010\大數相加\大數相加\obj\x86\Debug\大數相加.xml
+F:\VB程式\VB2010\大數相加\大數相加\obj\x86\Debug\大數相加.pdb
+G:\VB程式\VB2010\大數相加\大數相加\obj\x86\Debug\大數相加.exe
+G:\VB程式\VB2010\大數相加\大數相加\obj\x86\Debug\大數相加.xml
+G:\VB程式\VB2010\大數相加\大數相加\obj\x86\Debug\大數相加.pdb
