@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\bin\Debug\三角座標求面積角度.exe
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\bin\Debug\三角座標求面積角度.pdb
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\bin\Debug\三角座標求面積角度.xml
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.exe
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.xml
+C:\Users\user\Desktop\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.pdb
+E:\VB程式\VB2010\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.exe
+E:\VB程式\VB2010\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.xml
+E:\VB程式\VB2010\三角座標求面積角度\三角座標求面積角度\obj\x86\Debug\三角座標求面積角度.pdb
